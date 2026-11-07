@@ -1,7 +1,7 @@
-# I-ARJ8S: An Inertial, Non-Monotone Globalization of the Eighth-Order ARJ8S Method
+# I-ARJ8S: An Inertial Non-Monotone Globalization of an Eighth-Order Iterative Method
 
 Reference implementation and reproducibility code for the manuscript
-*"An Inertial, Non-Monotone Globalization of the Eighth-Order ARJ8S Method
+*"An Inertial Non-Monotone Globalization of an Eighth-Order Iterative Method
 with an Inexact Krylov Extension for Large-Scale Nonlinear Systems,"*
 submitted to *Numerical Linear Algebra with Applications* (Wiley).
 
