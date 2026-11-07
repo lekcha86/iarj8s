@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated manuscript once published; in the meantime, please cite this repository."
+title: "I-ARJ8S: An Inertial, Non-Monotone Globalization of the Eighth-Order ARJ8S Method with an Inexact Krylov Extension for Large-Scale Nonlinear Systems"
+type: software
+authors:
+  - family-names: Janngam
+    given-names: Pairat
+    orcid: "https://orcid.org/0000-0002-7369-8660"
+  - family-names: Comemuang
+    given-names: Chalermwut
+    orcid: "https://orcid.org/0000-0002-7817-1729"
+    email: chalermwut.cm@bru.ac.th
+license: MIT
+repository-code: "REPLACE_WITH_GITHUB_URL"
